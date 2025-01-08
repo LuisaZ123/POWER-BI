@@ -9,7 +9,7 @@ This project aims to visualize the Para Poomsae ranking data up to December 2024
 
 * Categorical Division: The data can be filtered by different competition categories and countries to facilitate analysis.
 
-Dashboard in Power BI: An interactive dashboard has been created in Power BI that allows users to visualize and explore the data.
+Dashboard in Power BI: An interactive dashboard has been created in Power BI that allows users to visualize and explore the data: https://app.powerbi.com/view?r=eyJrIjoiMGNjNTM5ZmEtMmFiNy00NTFkLTkzZDMtYjA0M2ViOTgxZGZkIiwidCI6ImQ1MTM4OGVmLTZhYjAtNDM2My05Zjk0LWQ1NjY0NGE0NTk3MCIsImMiOjR9 
 
 
 # Proyecto Power BI y Python: Ranking de Para Poomsae 2024
@@ -23,4 +23,4 @@ Este proyecto tiene como objetivo la visualización de los datos de ranking de P
 
 * División por Categorías: Los datos se pueden filtrar según las diferentes categorías de competencia y País para facilitar el análisis.
 
- Dashboard en Power BI: Se ha creado un dashboard interactivo en Power BI que permite visualizar y explorar los datos.
+ Dashboard en Power BI: Se ha creado un dashboard interactivo en Power BI que permite visualizar y explorar los datos: https://app.powerbi.com/view?r=eyJrIjoiMGNjNTM5ZmEtMmFiNy00NTFkLTkzZDMtYjA0M2ViOTgxZGZkIiwidCI6ImQ1MTM4OGVmLTZhYjAtNDM2My05Zjk0LWQ1NjY0NGE0NTk3MCIsImMiOjR9 
