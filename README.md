@@ -11,6 +11,7 @@ This project aims to visualize the Para Poomsae ranking data up to December 2024
 
 Dashboard in Power BI: An interactive dashboard has been created in Power BI that allows users to visualize and explore the data.
 
+
 # Proyecto Power BI y Python: Ranking de Para Poomsae 2024
 ## Descripción
 Este proyecto tiene como objetivo la visualización de los datos de ranking de Para Poomsae hasta diciembre de 2024. Utilizando Power Query para la limpieza y transformación de los datos, y Power BI y Python para la creación de un dashboard interactivo, el proyecto permite analizar y visualizar la clasificación de los atletas por país, Ranking y categorías.
